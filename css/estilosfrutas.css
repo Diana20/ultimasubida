@@ -1,0 +1,142 @@
+@charset "utf-8";
+/* CSS Document */
+#paginainicio
+{background:#0CC}
+#titulo
+{background:#F39; color:#309}
+#pienombre
+{background:#F3F; color:#6F3}
+#introduccion
+{color:#333; size:3; align:justify; background:#3FC; width:98%; margin:1%}
+#texto
+{color:#636; size:3; align:justify; background:#3FC; width:98%; margin:1%}
+#texto2
+{color:#636; size:3; align:justify; background:#FCF; width:98%; margin:1%}
+#texto3
+{color:#636; size:3; align:justify; background:#3CC; width:98%; margin:1%}
+#texto4
+{color:#636; size:3; align:justify; background:#FC6; width:98%; margin:1%}
+#texto5
+{color:#636; size:3; align:justify; background:#93F; width:98%; margin:1%}
+#texto6
+{color:#000; size:3; align:justify; background:#FF9; width:98%; margin:1%}
+#texto7
+{color:#636; size:3; align:justify; background:#FC3; width:98%; margin:1%}
+
+#animales
+{color:#039; size:3; background:#F66; width:98%; margin:1%}
+#vertebrados
+{color:#636; size:3; align:justify; background:#3FC; width:98%; margin:1%}
+#titulosdevertebrados
+{color:#F39; size:3; align:justify; background:#9F3; width:98%; margin:1%}
+#titulosdeinvertebrados
+{color:#930; size:3; align:justify; background:#F90; width:98%; margin:1%}
+#titulosdehervivoros
+{color:#F60; size:3; align:justify; background:#C9F; width:98%; margin:1%}
+#titulosdecarnivoros
+{color:#F60 ;size:3; align:justify; background:#F6C; width:98%; margin:1%}
+#titulosdeomnivoros
+{color:#F60 ;size:3; align:justify; background:#3FC; width:98%; margin:1%}
+#titulosdesecos
+{color:#F60 ;size:3; align:justify; background:#C33; width:98%; margin:1%}
+#invertebrados
+{color:#63F; size:3; align:justify; background:#C9C; width:98%; margin:1%}
+#hervivoros
+{color:#636; size:3; align:justify; background:#C36; width:98%; margin:1%}
+#carnivoros
+{color:#636; size:3; align:justify; background:#C36; width:98%; margin:1%}
+#omnivoros
+{color:#636; size:3; align:justify; background:#F66; width:98%; margin:1%}
+#secos
+{color:#636; size:3; align:justify; background:#FF6; width:98%; margin:1%}
+#terrestres
+{color:#339; size:3; align:justify; background:url(file:///G|/PROYECTO%20DAM/imagenes/fondo.jpg) ; width:98%; margin:1%}
+#acuaticos
+{color:#09C; size:3; align:justify; background:#009 ; width:98% ; margin:1%}
+#anfibios
+{color:#0C0 ; size:3; align:justify; background:#6CF ; width:98% ; margin:1%}
+#bipedos
+{color:#F0C ; size:3; align:justify; background:#936 ; width:98% ; margin:1%}
+#cuadrupedos
+{color:#0FF ; size:3; align:justify; background:#C0C ; width:98% ; margin:1%}
+#jirafa
+{color:#FC0 ; size:3; align:justify; background:url(file:///G|/PROYECTO%20DAM/imagenes/jirafa.jpg) ; width:98% ; margin:1%}
+#jahuar
+{color:#F60 ; size:3; align:justify; background:#960 ; width:98% ; margin:1%}
+#perro
+{color:#300 ; size:3; align:justify; background:#CCC ; width:98% ; margin:1%}
+#elefante
+{color:#666 ; size:3; align:justify; background:#CCC ; width:98% ; margin:1%}
+#cebra
+{color:#000 ; size:3; align:justify; background:#FFF ; width:98% ; margin:1%}
+#cerdo
+{color:#F6C ; size:3; align:justify; background:#C99 ; width:98% ; margin:1%}
+#chivo
+{color:#099 ; size:3; align:justify; background:#60C ; width:98% ; margin:1%}
+#patoanimacion}
+{color:#F96 ; size:3; align:justify; background:url(file:///G|/PROYECTO%20DAM/imagenes/pato.jpg) ; width:98% ; margin:1%}
+#pavo
+{color:#F96 ; size:3; align:justify; background:url(file:///G|/PROYECTO%20DAM/imagenes/pavoani.jpg) ; width:98% ; margin:1%}
+#canguro
+{color:#F96 ; size:3; align:justify; background:url(file:///G|/PROYECTO%20DAM/imagenes/canguroo.jpg) ; width:98% ; margin:1%}
+#pinguino
+{color:#F96 ; size:3; align:justify; background:url(file:///G|/PROYECTO%20DAM/imagenes/pinguis.jpg): ; width:98% ; margin:1%}
+#pajaro
+{color:#F96 ; size:3; align:justify; background: ; width:98% ; margin:1%}
+#gato
+{color:#F96 ; size:3; align:justify; background:url(file:///G|/PROYECTO%20DAM/imagenes/gato-rindo.jpg) ; width:98% ; margin:1%}
+#camello
+{color:#F96 ; size:3; align:justify; background:url(file:///G|/PROYECTO%20DAM/imagenes/camelloani.png) ; width:98% ; margin:1%}
+#cordero
+{color:#F96 ; size:3; align:justify; background:url(file:///G|/PROYECTO%20DAM/imagenes/corderito.jpg) ; width:98% ; margin:1%}
+#leon
+{color:#F96 ; size:3; align:justify; background:url(file:///G|/PROYECTO%20DAM/imagenes/leoncaricatura.jpg) ; width:98% ; margin:1%}
+#venado
+{color:#F96 ; size:3; align:justify; background:url(file:///G|/PROYECTO%20DAM/imagenes/venadocaricatura.jpg) ; width:98% ; margin:1%}
+#mono
+{color:#F96 ; size:3; align:justify; background:url(file:///G|/PROYECTO%20DAM/imagenes/monocaricatura.jpg) ; width:98% ; margin:1%}
+#llama
+{color:#2BBD35 ; size:3; align:justify; background:url(file:///G|/PROYECTO%20DAM/imagenes/llama5.jpg) ; width:98% ; margin:1%}
+#conejo
+{color:#2BBD35 ; size:3; align:justify; background:url(file:///G|/PROYECTO%20DAM/imagenes/conejocaricatura.jpg) ; width:98% ; margin:1%}
+#pavo
+{color:#2BBD35 ; size:3; align:justify; background:url(file:///G|/PROYECTO%20DAM/imagenes/pavoani.jpg) ; width:98% ; margin:1%}
+#langosta
+{color:#2BBD35 ; size:3; align:justify; background:url(file:///G|/PROYECTO%20DAM/imagenes/langosta2.jpg) ; width:98% ; margin:1%}
+#pato
+{color:#2BBD35 ; size:3; align:justify; background:url(file:///G|/PROYECTO%20DAM/imagenes/patoca.jpg) ; width:98% ; margin:1%}
+#llama
+{color:#2BBD35 ; size:3; align:justify; background:url(file:///G|/PROYECTO%20DAM/imagenes/lamacaricatura.jpg) ; width:98% ; margin:1%}
+#encabezadoterrestres
+{color:#2BBD35 ; size:3; align:justify; background:#FFF ; width:98% ; margin:1%}
+#encabezadoacuaticos
+{color#06C ; size:3; align:justify; background:#003 ; width:98% ; margin:1%}
+#encabezadoanfibios
+{color:#909; size:3; align:justify; background:#F3C ; width:98% ; margin:1%}
+#encabezadobipedos
+{color:#C03 ; size:3; align:justify; background:#F9F; width:98% ; margin:1%}
+#encabezadocuadrupedos
+{color:#C03 ; size:3; align:justify; background:#FF3 ; width:98% ; margin:1%}
+#textterrestre
+{color:#03F ; size:3; align:justify; background:#C93 ; width:98% ; margin:1%}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
